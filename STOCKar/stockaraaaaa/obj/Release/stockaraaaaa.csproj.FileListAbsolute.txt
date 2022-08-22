@@ -1,0 +1,13 @@
+C:\Users\Marianito\source\repos\stockaraaaaa\stockaraaaaa\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\Marianito\source\repos\stockaraaaaa\stockaraaaaa\bin\Release\DocumentFormat.OpenXml.xml
+C:\Users\Marianito\source\repos\stockaraaaaa\stockaraaaaa\obj\Release\stockaraaaaa.csprojAssemblyReference.cache
+C:\Users\Marianito\source\repos\stockaraaaaa\stockaraaaaa\obj\Release\stockaraaaaa.Form1.resources
+C:\Users\Marianito\source\repos\stockaraaaaa\stockaraaaaa\obj\Release\stockaraaaaa.csproj.GenerateResource.cache
+C:\Users\Marianito\source\repos\stockaraaaaa\stockaraaaaa\obj\Release\stockaraaaaa.csproj.CoreCompileInputs.cache
+C:\Users\Marianito\source\repos\stockaraaaaa\stockaraaaaa\obj\Release\stockaraaaaa.csproj.CopyComplete
+C:\Users\Marianito\source\repos\stockaraaaaa\stockaraaaaa\bin\Release\STOCKar.exe.config
+C:\Users\Marianito\source\repos\stockaraaaaa\stockaraaaaa\bin\Release\STOCKar.exe
+C:\Users\Marianito\source\repos\stockaraaaaa\stockaraaaaa\bin\Release\STOCKar.pdb
+C:\Users\Marianito\source\repos\stockaraaaaa\stockaraaaaa\obj\Release\STOCKar.Properties.Resources.resources
+C:\Users\Marianito\source\repos\stockaraaaaa\stockaraaaaa\obj\Release\STOCKar.exe
+C:\Users\Marianito\source\repos\stockaraaaaa\stockaraaaaa\obj\Release\STOCKar.pdb

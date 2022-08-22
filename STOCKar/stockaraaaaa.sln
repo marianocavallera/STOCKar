@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stockaraaaaa", "stockaraaaaa\stockaraaaaa.csproj", "{646AF865-20F9-420C-8F89-C10702DA4FBB}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "STOCKar", "..\..\..\Desktop\STOCKar Instalador\STOCKar\STOCKar.vdproj", "{07B7CE4B-F5EA-4367-A1AE-5A82CDDFA0A3}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "StockAR v1.0.2", "StockAR v1.0.2\StockAR v1.0.2.vdproj", "{E67CB3AE-BE12-41A0-B8CE-1E433302BD3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{646AF865-20F9-420C-8F89-C10702DA4FBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{646AF865-20F9-420C-8F89-C10702DA4FBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{646AF865-20F9-420C-8F89-C10702DA4FBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{646AF865-20F9-420C-8F89-C10702DA4FBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07B7CE4B-F5EA-4367-A1AE-5A82CDDFA0A3}.Debug|Any CPU.ActiveCfg = Debug
+		{07B7CE4B-F5EA-4367-A1AE-5A82CDDFA0A3}.Release|Any CPU.ActiveCfg = Release
+		{E67CB3AE-BE12-41A0-B8CE-1E433302BD3A}.Debug|Any CPU.ActiveCfg = Release
+		{E67CB3AE-BE12-41A0-B8CE-1E433302BD3A}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7645DAE6-0C52-4D1E-A7E2-4A4315543907}
+	EndGlobalSection
+EndGlobal

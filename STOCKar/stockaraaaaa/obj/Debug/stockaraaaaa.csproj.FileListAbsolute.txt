@@ -1,0 +1,26 @@
+C:\Users\Marianito\source\repos\stockaraaaaa\stockaraaaaa\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Marianito\source\repos\stockaraaaaa\stockaraaaaa\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Marianito\source\repos\stockaraaaaa\stockaraaaaa\obj\Debug\stockaraaaaa.csprojAssemblyReference.cache
+C:\Users\Marianito\source\repos\stockaraaaaa\stockaraaaaa\obj\Debug\stockaraaaaa.Form1.resources
+C:\Users\Marianito\source\repos\stockaraaaaa\stockaraaaaa\obj\Debug\stockaraaaaa.csproj.GenerateResource.cache
+C:\Users\Marianito\source\repos\stockaraaaaa\stockaraaaaa\obj\Debug\stockaraaaaa.csproj.CoreCompileInputs.cache
+C:\Users\Marianito\source\repos\stockaraaaaa\stockaraaaaa\obj\Debug\stockaraaaaa.csproj.CopyComplete
+C:\Users\Marianito\source\repos\stockaraaaaa\stockaraaaaa\bin\Debug\STOCKar.exe.config
+C:\Users\Marianito\source\repos\stockaraaaaa\stockaraaaaa\bin\Debug\STOCKar.exe
+C:\Users\Marianito\source\repos\stockaraaaaa\stockaraaaaa\bin\Debug\STOCKar.pdb
+C:\Users\Marianito\source\repos\stockaraaaaa\stockaraaaaa\obj\Debug\STOCKar.Properties.Resources.resources
+C:\Users\Marianito\source\repos\stockaraaaaa\stockaraaaaa\obj\Debug\STOCKar.exe
+C:\Users\Marianito\source\repos\stockaraaaaa\stockaraaaaa\obj\Debug\STOCKar.pdb
+D:\STOCKAR\STOCKAR PENDRIVE\stockaraaaaa\stockaraaaaa\bin\Debug\STOCKar.exe.config
+D:\STOCKAR\STOCKAR PENDRIVE\stockaraaaaa\stockaraaaaa\bin\Debug\STOCKar.exe
+D:\STOCKAR\STOCKAR PENDRIVE\stockaraaaaa\stockaraaaaa\bin\Debug\STOCKar.pdb
+D:\STOCKAR\STOCKAR PENDRIVE\stockaraaaaa\stockaraaaaa\bin\Debug\DocumentFormat.OpenXml.dll
+D:\STOCKAR\STOCKAR PENDRIVE\stockaraaaaa\stockaraaaaa\bin\Debug\DocumentFormat.OpenXml.xml
+D:\STOCKAR\STOCKAR PENDRIVE\stockaraaaaa\stockaraaaaa\obj\Debug\stockaraaaaa.Form1.resources
+D:\STOCKAR\STOCKAR PENDRIVE\stockaraaaaa\stockaraaaaa\obj\Debug\STOCKar.Properties.Resources.resources
+D:\STOCKAR\STOCKAR PENDRIVE\stockaraaaaa\stockaraaaaa\obj\Debug\stockaraaaaa.csproj.GenerateResource.cache
+D:\STOCKAR\STOCKAR PENDRIVE\stockaraaaaa\stockaraaaaa\obj\Debug\stockaraaaaa.csproj.CoreCompileInputs.cache
+D:\STOCKAR\STOCKAR PENDRIVE\stockaraaaaa\stockaraaaaa\obj\Debug\stockaraaaaa.csproj.CopyComplete
+D:\STOCKAR\STOCKAR PENDRIVE\stockaraaaaa\stockaraaaaa\obj\Debug\STOCKar.exe
+D:\STOCKAR\STOCKAR PENDRIVE\stockaraaaaa\stockaraaaaa\obj\Debug\STOCKar.pdb
+D:\STOCKAR\STOCKAR PENDRIVE\stockaraaaaa\stockaraaaaa\obj\Debug\stockaraaaaa.csproj.AssemblyReference.cache
